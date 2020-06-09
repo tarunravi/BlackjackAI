@@ -1,6 +1,6 @@
 # Blackjack AI
 
-In this personal project, I designed an AI to learn how to play the popular cardgame Blackjack without any human teaching it.  
+In this personal project, I designed an AI to learn how to play the popular cardgame Blackjack without any humans teaching it.  
 This project has two primary components: Building the Blackjack game, and adding the Blackjack AI
 
 ## Demo of the AI
