@@ -30,7 +30,7 @@ On average, the AI can start to beat the dealer within 5000 iterations of the ga
 
 ## AI Learning Progression
 ### After 5 iterations
-At this point the AI's only played 5 games, this isn't yet familiar with the Blackjack environment. This is evident in the graph, as everything's still gray. 
+At this point the AI's only played 5 games, this isn't yet familiar with the Blackjack environment. This is evident in the plot, as everything's still gray. 
 
 In addition, the AI has only won 1 out of the 5 games. 
 
